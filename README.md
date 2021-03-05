@@ -1,11 +1,15 @@
 # CS114.L21.KHCL - Machine Learning - UIT
 
-## Giới thiệu
-- Tên môn học: MÁY HỌC
+## GIỚI THIỆU
+- Tên môn học: Máy học
 - Mã lớp: CS114.L21.KHCL
-- Năm học: HK2 (2020-2021)
+- Năm học: 2020-2021
 
-## Danh sách thành viên
+## GIẢNG VIÊN HƯỚNG DẪN
+- PGS.TS. Lê Đình Duy - duyld@uit.edu.vn
+- Ths. Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
+
+## DANH SÁCH THÀNH VIÊN
 |STT| Họ Tên | MSSV| Email |
 |--------------|-------|------|-------|
 | 1 |Nguyễn Đức Toàn |  |  |  |
