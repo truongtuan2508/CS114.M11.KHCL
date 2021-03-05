@@ -1,11 +1,9 @@
 # CS114.L21.KHCL - Machine Learning - UIT
 
 ## MỤC LỤC
-[Giới thiệu](#giới-thiệu)
-
-[Giảng viên](#giảng-viên-hướng-dẫn)
-
-[Thành viên nhóm](#thành-viên-nhóm)
+- [Giới thiệu](#giới-thiệu)
+- [Giảng viên](#giảng-viên-hướng-dẫn)
+- [Thành viên nhóm](#thành-viên-nhóm)
 ## GIỚI THIỆU
 - Tên môn học: Máy học
 - Mã lớp: CS114.L21.KHCL
