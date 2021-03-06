@@ -1,6 +1,2 @@
-k, t = map(int, input().split())
-
-if (t // k) % 2 == 0:
-    print(t % k)
-else:
-    print(k - t % k)
+a = [int(x) for x in input().split()]
+print(int((-a[1] + 4*a[0])/2),' ',int(a[0]-(-a[1] + 4*a[0])/2))
