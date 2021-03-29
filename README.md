@@ -16,6 +16,6 @@
 ## THÀNH VIÊN NHÓM
 |STT| Họ Tên | MSSV| Email |
 |--------------|-------|------|-------|
-| 1 |Nguyễn Đức Toàn | 18521506 | 18521506@gm.uit.edu.vn |  |
-| 2 |Nguyễn Hồ Quỳnh Thư | 19520290 |19520290@gm.uit.edu.vn | |
+| 1 | |  |  |  |
+| 2 | |  || |
 | 3 |Trương Văn Tuấn | 19522486 | 19522486@gm.uit.edu.vn |  |
