@@ -15,7 +15,7 @@
 
 ## THÀNH VIÊN NHÓM
 |STT| Họ Tên | MSSV| Email | Github |
-
+|:-:|:------------------|:---------:|:--------:|:-----------:|
 | 1 | Trương Minh Sơn | 19522143 | 19522143@gm.uit.edu.vn | [truongminhson](https://github.com/truongminhson) |
 | 2 | Trương Văn Tuấn | 19522486 | 19522486@gm.uit.edu.vn | [truongtuan2508](https://github.com/truongtuan2508) |
 | 3 | Nguyễn Đức Toàn | 18521506 | 18521506@gm.uit.edu.vn |  |
